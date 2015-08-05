@@ -42,3 +42,7 @@ Mammoth + Advocate = MAX Vol.
  - Collaborative content editing using [EtherPad](https://github.com/ether/etherpad-lite)
  - Side-by-side editing for content or configuration, showing users the immediate effect of changes they make to either.
  - Ready-made lesson plans for educational environments, geared for learners of all ages!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/metadevfoundation/advocate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
